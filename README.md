@@ -2,6 +2,7 @@
 
 
 <img src="http://azac.pl/out.gif" width="400"/>
+(Note: this animation is of the Sublime version of the plugin but it sure demonstrates the point clearly)
 
 Based on [howdoi](https://github.com/gleitz/howdoi).
 
